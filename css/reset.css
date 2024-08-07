@@ -1,0 +1,90 @@
+﻿
+@font-face {
+    font-family: 'dm_sans';
+    src: url('fonts/dmsans/dmsans-regular-webfont.woff2') format('woff2'),
+         url('fonts/dmsans/dmsans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dm_sans_medium';
+    src: url('fonts/dmsans/dmsans-medium-webfont.woff2') format('woff2'),
+         url('fonts/dmsans/dmsans-medium-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dm_sans_bold';
+    src: url('fonts/dmsans/dmsans-bold-webfont.woff2') format('woff2'),
+         url('fonts/dmsans/dmsans-bold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+/*Reset CSS*/
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+	list-style: none;
+}
+* {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-ms-font-smoothing: antialiased;
+	-webkit-font-smoothing: antialiased;
+	outline: none;
+}
+input, select, option {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	outline: none;
+	outline: none;
+	background: #000;
+}
+select::-ms-expand {
+display: none;
+}
+input[type=number] {
+	-moz-appearance: textfield;
+}
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button {
+-webkit-appearance:none;
+margin: 0;
+}
+::-webkit-input-placeholder {
+opacity:1 !important;
+	color: #FFFFFF;
+}
+::-moz-placeholder {
+opacity:1 !important;
+	color: #FFFFFF;
+}
+:-ms-input-placeholder {
+opacity:1 !important;
+	color: #FFFFFF;
+}
+:-moz-placeholder {
+opacity:1 !important;
+	color: #FFFFFF;
+}
+input:focus, textarea:focus, select:focus {
+	background-color: transparent;
+}
+
+
+
+/*Reset CSS*/
+
+
+
