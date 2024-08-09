@@ -1,4 +1,4 @@
-# Montage Studio: Official Website for Shubham Shrivas
+# Montage Studio: Official Website for Shubham Shrivastav
 
 Welcome to Montage Studio, the official website for Shubham Shrivas, an experienced video editor with 8 years in the film and commercial production industry.
 
