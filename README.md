@@ -1,15 +1,15 @@
-# Shubham Shrivas: Expert Video Editor - Official Website
+# Montage Studio: Official Website for Shubham Shrivas
 
-Welcome to the official website of Shubham Shrivas, a seasoned video editor with 8 years of experience in the film and commercial production industry.
+Welcome to Montage Studio, the official website for Shubham Shrivas, an experienced video editor with 8 years in the film and commercial production industry.
 
 ## About the Project
 
-This website has been designed to highlight Shubham Shrivas' professional profile and work. It features a variety of interactive elements to enhance the user experience.
+This website showcases Shubham Shrivas' professional work and features a variety of interactive elements to enhance the user experience.
 
 ## Website Features
 
-- **Autoplay Video on Hover**: Engaging video content that plays automatically when hovered over.
-- **Fullscreen Fit**: The website is designed to fit the window height, providing a seamless and immersive experience.
+- **Autoplay Video on Hover**: Videos start playing automatically when hovered over.
+- **Fullscreen Fit**: The design ensures that the website fits the window height for a seamless viewing experience.
 
 ## Technologies Used
 
@@ -19,6 +19,6 @@ This website has been designed to highlight Shubham Shrivas' professional profil
 
 ## Website URL
 
-You can visit the website here: [Shubham Shrivas - Official Website](https://montagestudio.in)
+Visit Montage Studio here: [Montage Studio](https://montagestudio.in)
 
-Feel free to explore the website to see the implementation of the autoplay video effect and fullscreen design.
+Explore the site to see the unique video autoplay effect and fullscreen layout in action.
